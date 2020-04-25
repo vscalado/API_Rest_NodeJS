@@ -1,0 +1,5 @@
+# Visual Studio Code related
+.vscode/
+
+#Node Modules
+node_modules/
